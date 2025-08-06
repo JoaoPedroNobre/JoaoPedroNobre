@@ -1,6 +1,6 @@
 ### João Nobre
 ---
-Driven by a passion for technology, I am a Computer Science student and an aspiring backend developer with a keen interest in building efficient and scalable solutions. I have experience with **Python** and am continuously expanding my knowledge to tackle future challenges.
+Driven by a passion for technology, I am a Computer Science student and an aspiring backend developer with a keen interest in building efficient and scalable solutions. I have experience with **Python, SQL** and  I am continuously expanding my knowledge to tackle future challenges.
 
 - Currently pursuing a degree in Computer Science
 
