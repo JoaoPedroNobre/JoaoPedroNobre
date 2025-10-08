@@ -1,6 +1,6 @@
 ### João Nobre
 ---
-Driven by a passion for technology, I am a Computer Science student and an aspiring backend developer with a keen interest in building efficient and scalable solutions. I have experience with **Python, SQL** and  I am continuously expanding my knowledge to tackle future challenges.
+As a Computer Science student and aspiring Data Engineer, I am passionate about building the infrastructure that turns raw data into actionable insights. My focus is on creating robust and scalable data pipelines (ETL/ELT), and I am always deepening my expertise in Big Data ecosystems and cloud platforms to tackle modern data challenges.
 
 - Currently pursuing a degree in Computer Science
 
