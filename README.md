@@ -1,8 +1,8 @@
 ### João Nobre
 ---
-As a Computer Science student and aspiring Data Engineer, I am passionate about building the infrastructure that turns raw data into actionable insights. My focus is on creating robust and scalable data pipelines (ETL/ELT), and I am always deepening my expertise in Big Data ecosystems and cloud platforms to tackle modern data challenges.
+As a Statistics student and aspiring Data Engineer, I am passionate about building the infrastructure that turns raw data into actionable insights. My focus is on creating robust and scalable data pipelines (ETL/ELT), and I am always deepening my expertise in Big Data ecosystems and cloud platforms to tackle modern data challenges.
 
-- Currently pursuing a degree in Computer Science
+- Currently pursuing a degree in Statistics at UFPB
 
 ---
 ![Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroNobre&show_icons=true&theme=dark)
